@@ -9,8 +9,6 @@ namespace ChallengeFirstPapaBobsPizza
 {
     public partial class Default : System.Web.UI.Page
     {
-        public object F00 { get; private set; }
-
         protected void Page_Load(object sender, EventArgs e)
         {
 
